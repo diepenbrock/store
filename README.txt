@@ -1,3 +1,7 @@
 Example
 
 changes
+
+--
+
+second change
